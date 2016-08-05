@@ -115,6 +115,7 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 
 # 在线文档
 
+* [overapi](http://overapi.com/)
 * [Linux工具快速教程](http://linuxtools-rst.readthedocs.io/)
 * [青岛生物能源与过程研究所超级运算中心 doc](http://scc.qibebt.cas.cn/docs/)
 * [常用API文档 online](http://tool.oschina.net/apidocs/)
@@ -150,9 +151,15 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [写给 Git 初学者的 7 个建议](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666539077&idx=1&sn=1003074d8589740951173e5e6cee5ca5&scene=0#wechat_redirect)
 * [intel 80386程序员参考手册](https://wizardforcel.gitbooks.io/intel-80386-ref-manual/content/49.html)
 
-
 * [matlab 文档](http://www.cnblogs.com/xilifeng/archive/2012/09/01/2666484.html)
 * [操作系统简单实现与基本原理 — 基于ucore](https://chyyuu.gitbooks.io/ucorebook/content/)
+
+* gitbook:
+	* [操作系统设计与实现 biji](https://noah_1992.gitbooks.io/-tanenbaum/content)
+	* [操作系统简单实现与基本原理--基于ucore OS](https://chyyuu.gitbooks.io/ucorebook/content)
+	* [uCore OS实验指导书](https://objectkuan.gitbooks.io/ucore-docs/content/)
+	* [操作系统练习题库](https://github.com/chyyuu/os_course_exercise_library)
+	* [Intel 80386 程序员参考手册](https://wizardforcel.gitbooks.io/intel-80386-ref-manual/content/)
 
 # 书单
 
