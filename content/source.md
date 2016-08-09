@@ -28,7 +28,7 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [33个网站足以使你成为一个天才](http://codecloud.net/5186.html)
 	* [学习新技能的37个最佳网站](http://codecloud.net/4772.html)
 	* [CodeCloud](http://w3cschool.codecloud.net/) 各种技术简单入门文档
-	* [各类网站汇总](http://1nami.com/)
+	* [各类学习网站汇总](http://1nami.com/)
 * 版本控制
 	* [git工作流](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 * 前端
@@ -119,8 +119,9 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [安全网站汇总](http://1nami.com/site/195.html)
 
 ### 工具
-	* [pwnypack – 又一个CTF工具包](http://mp.weixin.qq.com/s?__biz=MzI1ODEzMzIyOQ==&mid=2650996425&idx=1&sn=b9e4c7de07344fa8b61671a77603a0dd&scene=0#wechat_redirect)
-	* [社工裤cms](http://iusky.github.io/cms/)
+
+* [pwnypack – 又一个CTF工具包](http://mp.weixin.qq.com/s?__biz=MzI1ODEzMzIyOQ==&mid=2650996425&idx=1&sn=b9e4c7de07344fa8b61671a77603a0dd&scene=0#wechat_redirect)
+* [社工裤cms](http://iusky.github.io/cms/)
 
 ## 问答网站
 
