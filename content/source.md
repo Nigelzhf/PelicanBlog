@@ -15,6 +15,7 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 ## article
 
 * tools
+	* [网站相关工具 二维码 css压缩 json格式化等](http://www.bejson.com/)
 	* [虫部落 快搜](http://so.chongbuluo.com/)
 * [10大算法](http://www.csdn.net/article/2014-04-10/2819237-Top-10-Algorithms-for-Coding-Interview)
 * [函数式编程](http://www.nowamagic.net/academy/detail/1220540)
