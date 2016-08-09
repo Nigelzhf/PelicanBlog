@@ -25,6 +25,10 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [写一个操作系统内核有多难？大概的内容、步骤是什么？](http://m.zhihujingxuan.com/19197.html)
 	* [五分钟内搭建 Linux 0.11 的实验环境](http://www.tinylab.org/take-5-minutes-to-build-linux-0-11-experiment-envrionment/)
 	* [计算机专业的学生必须掌握的五门课程](http://www.nowamagic.net/librarys/veda/detail/2192)
+	* [33个网站足以使你成为一个天才](http://codecloud.net/5186.html)
+	* [学习新技能的37个最佳网站](http://codecloud.net/4772.html)
+	* [CodeCloud](http://w3cschool.codecloud.net/) 各种技术简单入门文档
+	* [各类网站汇总](http://1nami.com/)
 * 版本控制
 	* [git工作流](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 * 前端
@@ -38,17 +42,11 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* 设计模式
 		* [设计模式](http://www.jasongj.com/design_pattern/summary/)
 		* [追 MM 和设计模式：趣解 23 种设计模式](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666539206&idx=1&sn=1c16f63c41784dc39c283dc233774eb0&scene=0#wechat_redirect)
-* [win 性能极致优化](http://mp.weixin.qq.com/s?__biz=MzA4MDkyOTIzOA==&mid=2656353183&idx=1&sn=861459be71675cc5673ee817862ee07f&scene=0)
-* [浏览器工作原理](https://segmentfault.com/a/1190000004934730?utm_source=tuicool&utm_medium=referral#articleHeader7)
-* [TCP/IP 协议栈及 OSI 参考模型详解](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861685&idx=1&sn=1b7be3f51d28b11a8b1f9cb5ad800a4f&scene=0#wechat_redirect)
-* [cookie and session](http://www.nowamagic.net/librarys/veda/detail/1915)
-* [不能错过：10 篇 Linux 热文](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666539147&idx=1&sn=c0c8aa90bff67118204fe195a0c70103&scene=0#wechat_redirect)
-* [这 10 篇 Python 热文，你没错过吧 ^_^](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563712&idx=1&sn=b458328fea38dd069d3c32fb37b39c59&scene=0#wechat_redirect)
-* [如何成为一名天才](http://mp.weixin.qq.com/s?__biz=MjM5MzA0OTkwMA==&mid=2651194704&idx=1&sn=041c0ea730ac4223afab5192b27c1499&scene=0#wechat_redirect)
-* [Windows10+Ubuntu双系统安装](http://www.jianshu.com/p/2eebd6ad284d)
-* [最小的编译器](https://github.com/1c7/the-super-tiny-compiler)
-
 * source
+	* 相关网站汇总
+		* [学习网站资源网站汇总](http://www.zhihu.com/question/27751561/answer/51307463)
+		* [github awesome](https://github.com/bayandin/awesome-awesomeness)
+		* [各类网站整理](http://www.zhihu.com/question/31380464/answer/51709898)
 	* [计算机书籍控](http://bestcbooks.com/)
 	* [开源知识库](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/0.html)
 	* [ui资源](http://www.xueui.cn/)
@@ -62,6 +60,9 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [大数据学习资源整理](http://www.tuicool.com/wx/NrYvqu7?from=singlemessage&isappinstalled=1)
 	* [web线框图](http://www.iteye.com/news/23894)
 	* [短信登录验证 ](http://www.mob.com/)
+	* [jobbole 资源](http://hao.jobbole.com/)
+	* [ui设计相关资源](http://www.zhihu.com/question/27751561/answer/51307463)
+	* [各类网站汇总](http://1nami.com/)
 
 * 打字游戏
 	* https://www.typing.com/
@@ -70,7 +71,19 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* http://www.typingmaster.com
 	* http://hackertyper.net/
 
+* [win 性能极致优化](http://mp.weixin.qq.com/s?__biz=MzA4MDkyOTIzOA==&mid=2656353183&idx=1&sn=861459be71675cc5673ee817862ee07f&scene=0)
+* [浏览器工作原理](https://segmentfault.com/a/1190000004934730?utm_source=tuicool&utm_medium=referral#articleHeader7)
+* [TCP/IP 协议栈及 OSI 参考模型详解](http://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650861685&idx=1&sn=1b7be3f51d28b11a8b1f9cb5ad800a4f&scene=0#wechat_redirect)
+* [cookie and session](http://www.nowamagic.net/librarys/veda/detail/1915)
+* [不能错过：10 篇 Linux 热文](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666539147&idx=1&sn=c0c8aa90bff67118204fe195a0c70103&scene=0#wechat_redirect)
+* [这 10 篇 Python 热文，你没错过吧 ^_^](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563712&idx=1&sn=b458328fea38dd069d3c32fb37b39c59&scene=0#wechat_redirect)
+* [如何成为一名天才](http://mp.weixin.qq.com/s?__biz=MjM5MzA0OTkwMA==&mid=2651194704&idx=1&sn=041c0ea730ac4223afab5192b27c1499&scene=0#wechat_redirect)
+* [Windows10+Ubuntu双系统安装](http://www.jianshu.com/p/2eebd6ad284d)
+* [最小的编译器](https://github.com/1c7/the-super-tiny-compiler)
+* [RESTful架构详解](http://www.open-open.com/solution/view/1437528859537)
+
 ## blog
+
 * [blog 网站资源汇总](http://www.diycode.cc/sites)
 * [粉丝日志 r cpp 数据科学](http://blog.fens.me/)
 * [每个 CS 系学生都应该知道的事](http://mp.weixin.qq.com/s?__biz=MzA4MjEyNTA5Mw==&mid=2652563679&idx=1&sn=72be4da3331d2e9a399fe25e3f4727f2&scene=0#wechat_redirect)
@@ -85,6 +98,7 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 * [chrome 免费科学上网](https://gochrome.info/)
 
 ## 安全
+
 * article
 	* [信息安全入门指南-资源](http://blog.jobbole.com/48738/)
 	* [安全类网站集锦](https://www.figotan.org/2016/07/19/security-websites-list/)
@@ -99,13 +113,23 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 * doc
 	* [kali手册](http://www.dzchack.cn/page/2)
 	* [Linux安全渗透](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/0.html)
-* sorce
+* source
 	* [KCon大会 历届资源](http://kcon.knownsec.com/papers#kcon_2015)
 	* [KCon](http://kcon.knownsec.com/2016/)
+	* [安全网站汇总](http://1nami.com/site/195.html)
+
 ### 工具
 	* [pwnypack – 又一个CTF工具包](http://mp.weixin.qq.com/s?__biz=MzI1ODEzMzIyOQ==&mid=2650996425&idx=1&sn=b9e4c7de07344fa8b61671a77603a0dd&scene=0#wechat_redirect)
 	* [社工裤cms](http://iusky.github.io/cms/)
 
+## 问答网站
+
+* [知乎](http://www.zhihu.com/)
+* [stackoverflow](http://stackoverflow.com/)
+* [segmentfault](https://segmentfault.com/)
+* [类似知乎网站](http://www.zhihu.com/question/28260522)
+* [深度开源](http://www.open-open.com/)
+* [v2ex](https://www.v2ex.com/)
 
 # 好的github
 
@@ -145,11 +169,13 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [tornado写博客碰到的一些问题](http://ningning.today/2016/01/27/python/tornado%E5%86%99%E5%8D%9A%E5%AE%A2%E7%A2%B0%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/)
 	* [pytips - Useful Python tips! ](https://github.com/rainyear/pytips/blob/master/README.md)
 	* [Python 技巧总结](http://litaotao.github.io/python-materials)
+	* [Python从基础入门到高级经典资料汇总（视频+电子书）](http://www.open-open.com/solution/view/1367477290031)
 * js
 	* [跟着9张思维导图学习JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650838963&idx=1&sn=693f8b05174ba00c2c4815dd3c7deda3&scene=0#wechat_redirect)
 * git
 	* [git-scm](https://git-scm.com/book/zh/v2)
 	* [写给 Git 初学者的 7 个建议](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666539077&idx=1&sn=1003074d8589740951173e5e6cee5ca5&scene=0#wechat_redirect)
+	* [github 相关资源](http://www.tuicool.com/articles/myqIvme)
 * [intel 80386程序员参考手册](https://wizardforcel.gitbooks.io/intel-80386-ref-manual/content/49.html)
 
 * [matlab 文档](http://www.cnblogs.com/xilifeng/archive/2012/09/01/2666484.html)
@@ -162,6 +188,8 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [操作系统练习题库](https://github.com/chyyuu/os_course_exercise_library)
 	* [Intel 80386 程序员参考手册](https://wizardforcel.gitbooks.io/intel-80386-ref-manual/content/)
 
+* [CodeCloud](http://w3cschool.codecloud.net/) 各种技术简单入门文档
+* [各类网站汇总](http://1nami.com/)
 # 书单
 
 * 操作系统
@@ -182,6 +210,10 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 * python
 	* [Python|绝不乱入的靠谱书单](http://www.jianshu.com/p/587442bd4522)
 	* [tornado modern web application with python](http://demo.pythoner.com/itt2zh/index.html)
+* [github书整理](https://github.com/bayandin/awesome-awesomeness)
+
+----
+
 # 墙外风光
 
 ```
@@ -255,39 +287,42 @@ VPN
 	http://i.freevpnss.com/
 
 其他整理
-1,http://www.goagent.biz/ ,免费shadowsocks和VPN账号
-2,http://www.wufuli.com/ ,免费shadowsocks账号
-3,http://www.babysaying.net/free-ss,免费shadowsocks账号
-4,http://blog.ss-link.com/archives/27,免费shadowsocks账号
-5,https://cattt.com/ ,免费shadowsocks账号,需要邀请码才能注册,请自行寻找
-6,http://free.kuaishangss.tk/ ,免费shadowsocks账号,现在已经没有邀请码了
-7,http://www.aiweibk.com/technology/shiyong,免费shadowsocks账号
-8,http://www.800vpn.net/forum.php,免费shadowsocks账号和VPN账号
-9,http://ss.gav1n.com/ ,免费shadowsocks账号,定期申请注册
-10,http://secpert.com/forum.php,免费shadowsocks账号
-11,http://www.fyhqy.com/356/ ,免费shadowsocks账号
-12,https://www.123ssh.net/free.php ,免费shadowsocks账号和SSH账号
-13,http://shadowsocks.info/ ,免费shadowsocks账号
-14,http://www.v2ex.com/go/shadowsocks ,免费shadowsocks账号
-15 https://plus.google.com/109790703964908675921/posts/b9TeivA6zRU ,免费VPN账号
-16,google “free vpn”就会出现一大堆免费VPN账号的
-17,这里的shadowsocks社群里也经常会有人分享免费shadowsocks账号,https://plus.google.com/communities/106442142549456855872
-18,http://tashi.xyz/ ,免费shadowsocks账号,网站上即时刷新邀请码（现在已经没有邀请码了）
-19,http://114ss.tk/ ,免费shadowsocks账号,网站上提供邀请码（关闭注册了）
-20,shadowsocks公益帐号圈 https://plus.google.com/communities/104092405342699579599 ,各种免费shadowsocks账号和网站分享（现在基本上变成了邀请码分享社群了）
-21,http://acrossthegreatwall.org/,免费SSH和shadowsocks账号
-22,https://www.shadowsocks5.com/,免费shadowsocks,请自行寻找邀请码注册
-23,http://hidess.com/ ,免费shadowsocks和VPN账号
-24,https://ssfree.ml/,免费shadowsocks,请自行寻找邀请码注册
-25,http://shell.dns1.us/,免费shadowsocks,请自行寻找邀请码注册
-26,http://ssnode.com/,免费shadowsocks,请自行寻找邀请码注册﻿
+1 http://www.goagent.biz/ 免费shadowsocks和VPN账号
+2 http://www.wufuli.com/ 免费shadowsocks账号
+3 http://www.babysaying.net/free-ss 免费shadowsocks账号
+4 http://blog.ss-link.com/archives/27 免费shadowsocks账号
+5 https://cattt.com/ 免费shadowsocks账号,需要邀请码才能注册,请自行寻找
+6 http://free.kuaishangss.tk/ 免费shadowsocks账号,现在已经没有邀请码了
+7 http://www.aiweibk.com/technology/shiyong 免费shadowsocks账号
+8 http://www.800vpn.net/forum.php 免费shadowsocks账号和VPN账号
+9 http://ss.gav1n.com/ 免费shadowsocks账号,定期申请注册
+10 http://secpert.com/forum.php免费shadowsocks账号
+11 http://www.fyhqy.com/356/ 免费shadowsocks账号
+12 https://www.123ssh.net/free.php 免费shadowsocks账号和SSH账号
+13 http://shadowsocks.info/ 免费shadowsocks账号
+14 http://www.v2ex.com/go/shadowsocks 免费shadowsocks账号
+15 https://plus.google.com/109790703964908675921/posts/b9TeivA6zRU 免费VPN账号
+16 google “free vpn”就会出现一大堆免费VPN账号的
+17 这里的shadowsocks社群里也经常会有人分享免费shadowsocks账号,https://plus.google.com/communities/106442142549456855872
+18 http://tashi.xyz/ 免费shadowsocks账号,网站上即时刷新邀请码（现在已经没有邀请码了）
+19 http://114ss.tk/ 免费shadowsocks账号,网站上提供邀请码（关闭注册了）
+20 shadowsocks公益帐号圈 https://plus.google.com/communities/104092405342699579599 各种免费shadowsocks账号和网站分享（现在基本上变成了邀请码分享社群了）
+21 http://acrossthegreatwall.org/ 免费SSH和shadowsocks账号
+22 https://www.shadowsocks5.com/ 免费shadowsocks,请自行寻找邀请码注册
+23 http://hidess.com/ 免费shadowsocks和VPN账号
+24 https://ssfree.ml/ 免费shadowsocks,请自行寻找邀请码注册
+25 http://shell.dns1.us/ 免费shadowsocks,请自行寻找邀请码注册
+26 http://ssnode.com/ 免费shadowsocks,请自行寻找邀请码注册﻿
 ```
+----
 
 # others
+
 1. jetbrains license server
 	* http://jetbrains.oliyo.cn
 
 2. framework
+	* [bootstrap 相关框架](https://github.com/therebelrobot/awesome-bootstrap)
 	* bootstrap free framework https://www.bootstrapzero.com
 	* [HTML5 ★ BOILERPLATE](https://html5boilerplate.com/)
 	* [pure](https://github.com/yahoo/pure/)[doc-zh](http://www.purecss.org/)
@@ -295,6 +330,7 @@ VPN
 	* [material-design-lite](https://github.com/google/material-design-lite)
 	* [mdl](http://www.materialscss.com)
 	* [大前端工具集](http://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650838992&idx=1&sn=eb95956441f9620a10bc65c207507e3b&scene=0)
+
 3. google镜像
 	* [Google 镜像站搜集](http://www.itechzero.com/google-mirror-sites-collect.html)
 	* http://www.google-cn.net/
@@ -303,6 +339,7 @@ VPN
 	* http://dir.scmor.com/google/
 	* http://top.jobbole.com/22100/
 	* http://www.itechzero.com/google-mirror-sites-collect.html
+
 4. QQ account
 
 ```
