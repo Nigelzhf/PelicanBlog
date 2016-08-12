@@ -26,6 +26,7 @@ Summary: 平时提高效率工具汇总
 * 静网大师 视频去广告
 * [dash](https://upclinux.github.io/intro/07/docset/) 参考手册工具
 * [程序员高效率工作工具推荐（必备工具）](http://m.blog.csdn.net/article/details?id=41697895)
+* [psr.exe]() win自带的操作步骤记录器
 
 # linux平台
 * linux基本命令
