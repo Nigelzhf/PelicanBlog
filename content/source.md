@@ -171,6 +171,8 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [pytips - Useful Python tips! ](https://github.com/rainyear/pytips/blob/master/README.md)
 	* [Python 技巧总结](http://litaotao.github.io/python-materials)
 	* [Python从基础入门到高级经典资料汇总（视频+电子书）](http://www.open-open.com/solution/view/1367477290031)
+	* python框架
+		* [requests](http://docs.python-requests.org/zh_CN/latest/)
 * js
 	* [跟着9张思维导图学习JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNDcyNjI3OA==&mid=2650838963&idx=1&sn=693f8b05174ba00c2c4815dd3c7deda3&scene=0#wechat_redirect)
 * git
