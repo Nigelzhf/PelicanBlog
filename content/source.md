@@ -39,8 +39,10 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [UI设计流程](http://www.zhihu.com/question/23195742)
 * java
 	* [如何入门和掌握 Java 开发](https://zhuanlan.zhihu.com/p/21371311)
+	* [常见错误处理方法](http://www.kancloud.cn/digest/mydebug/195927)
 	* 设计模式
 		* [设计模式](http://www.jasongj.com/design_pattern/summary/)
+		* [浅显易懂的设计模式](http://www.kancloud.cn/digest/feihedp/196359)
 		* [追 MM 和设计模式：趣解 23 种设计模式](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666539206&idx=1&sn=1c16f63c41784dc39c283dc233774eb0&scene=0#wechat_redirect)
 * source
 	* 相关网站汇总
@@ -171,6 +173,7 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [pytips - Useful Python tips! ](https://github.com/rainyear/pytips/blob/master/README.md)
 	* [Python 技巧总结](http://litaotao.github.io/python-materials)
 	* [Python从基础入门到高级经典资料汇总（视频+电子书）](http://www.open-open.com/solution/view/1367477290031)
+	* [*python学习笔记*](http://www.kancloud.cn/digest/python-notes/)
 	* python框架
 		* [requests](http://docs.python-requests.org/zh_CN/latest/)
 * js
@@ -192,7 +195,9 @@ Summary: 平时收集的资源汇总: 笔记 书单 博客
 	* [Intel 80386 程序员参考手册](https://wizardforcel.gitbooks.io/intel-80386-ref-manual/content/)
 
 * [CodeCloud](http://w3cschool.codecloud.net/) 各种技术简单入门文档
+* [codecloud各种类似gitbook](http://www.kancloud.cn/)
 * [各类网站汇总](http://1nami.com/)
+
 # 书单
 
 * 操作系统
