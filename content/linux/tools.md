@@ -28,13 +28,14 @@ Summary: 平时提高效率工具汇总
 * [程序员高效率工作工具推荐（必备工具）](http://m.blog.csdn.net/article/details?id=41697895)
 * [psr.exe]() win自带的操作步骤记录器
 
+
 # linux平台
 * linux基本命令
 * Atom github出品编辑器
 * Git 版本控制
 * Pycharm python ide
 * Wireshark 网络抓包工具（官方支持中文界面）
-
+* [ngrok](http://dorole.com/tag/ngrok/)内网穿透利器
 * C相关工具
     * [Valgrind](http://www.cnblogs.com/sunyubo/archive/2010/05/05/2282170.html) 检测内存泄漏和内存违例 基于仿真技术的程序调试和分析工具，它包含一个内核──一个软件合成的CPU，和一系列的小工具，每个工具都可以完成一项任务──调试，分析，或测试等
     * gprof 程序效率评估

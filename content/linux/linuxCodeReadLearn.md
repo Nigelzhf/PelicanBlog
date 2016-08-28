@@ -39,6 +39,9 @@ GDB 打印出内存中的內容，格式為 x/nyz，其中
 n: 要印出的數量
 y: 显示的格式，可为C( char), d(整数), x(hex)
 z: 单位，可为 b(byte), h(16bit), w(32bit)
+
+cgdb	可显示为上半部分为代码，下半部分命令部分
+cgdb tools/system
 ```
 
 

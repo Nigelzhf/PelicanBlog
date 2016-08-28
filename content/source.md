@@ -358,3 +358,9 @@ VPN
 密保所对应的问题2：您母亲的姓名是？   
 密保所对应的问题3：您配偶的姓名是？
 ```
+
+5. English 
+[赖世雄美语音标]()
+[美语从头学]()
+[ESLPOD]()
+[EnglishPod](http://www.tingroom.com/lesson/englishpod/)
